@@ -27,7 +27,6 @@
 		</div>
 	</div>
 
-
 	<script type="text/javascript">
 		var value1 = document.getElementById("connector");
 		setInterval(
@@ -43,9 +42,6 @@
 					xhr.send();
 				}, 1000);
 	</script>
-
-
-
 </body>
 </html>
 </body>
